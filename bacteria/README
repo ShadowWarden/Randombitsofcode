@@ -1,0 +1,4 @@
+Usage : 
+$ make
+$ ./bact output.txt
+$ python plot.py
